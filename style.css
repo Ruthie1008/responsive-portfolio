@@ -8,6 +8,9 @@ body {
   margin: 60px auto;
   max-width: 800px;
 }
+.hero {
+  background: #f9f7fe;
+}
 
 h1,
 h2,
