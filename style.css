@@ -7,9 +7,13 @@
 body {
   margin: 60px auto;
   max-width: 800px;
+  font-family: playfair display;
+  font-weight: 10px;
 }
 .hero {
   background: #f9f7fe;
+  width: 800px;
+  height: 600px;
 }
 
 h1,
@@ -25,6 +29,8 @@ h1 {
 
 h2 {
   font-size: 48px;
+  font-family: poppins;
+  padding-top: 100px;
 }
 
 h3 {
@@ -39,6 +45,7 @@ p {
   font-size: 18px;
   line-height: 1.5;
   text-align: center;
+  font-family: poppins;
 }
 
 .navigation-links {
