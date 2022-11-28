@@ -166,3 +166,6 @@ footer .social-links a:hover {
 .fa-linkedin:before {
   content: "\f16d";
 }
+.social-media a {
+  padding-top: 20px;
+}
