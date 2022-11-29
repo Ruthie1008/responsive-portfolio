@@ -128,11 +128,12 @@ div {
 
 footer .social-links a {
   margin: 0 20px;
+  margin-top: 20px;
   color: var(--branding-color);
   background: var(--secondary-color);
   padding: 10px 14px;
   border-radius: 50%;
-  font-size: 100px;
+  font-size: 18px;
   transition: all 100ms ease-in-out;
 }
 footer .social-links a:hover {
@@ -168,9 +169,7 @@ footer .social-links a:hover {
 .fa-linkedin:before {
   content: "\f16d";
 }
-.social-media a {
-  padding-top: 20px;
-}
+
 .hero {
   background-color: #e663a4;
   box-shadow: var(--box-shadow);
