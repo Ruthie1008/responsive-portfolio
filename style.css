@@ -172,5 +172,6 @@ footer .social-links a:hover {
 
 .hero {
   background-color: #f0619b;
+  padding-bottom: 50px;
   box-shadow: var(--box-shadow);
 }
